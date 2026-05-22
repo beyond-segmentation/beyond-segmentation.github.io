@@ -103,5 +103,15 @@ Below are models for all the tested values of threshold T and weight W (see the 
 # BibTeX
 
 ```
-TBD
+@inproceedings{10.2312:egs.20261020,
+booktitle = {Eurographics 2026 - Short Papers},
+editor = {},
+title = {{Beyond Segmentation: Structurally Informed Facade Parsing from Imperfect Images}},
+author = {Janicki, Maciej and Plocharski, Aleksander and Musialski, Przemyslaw},
+year = {2026},
+publisher = {The Eurographics Association},
+ISSN = {2309-5059},
+ISBN = {978-3-03868-299-8},
+DOI = {10.2312/egs.20261020}
+}
 ```
