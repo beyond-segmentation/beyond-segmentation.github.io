@@ -5,7 +5,7 @@ description1: Short Paper in Eurographics 2026
 description2: Maciej Janicki<sup>1</sup>, Aleksander Plocharski<sup>1,2</sup> and Przemyslaw Musialski<sup>3</sup><br><sup>1</sup>Warsaw University of Technology, <sup>2</sup>Akces NCBR, <sup>3</sup>New Jersey Institute of Technology
 button1_url: https://arxiv.org/abs/2604.09260
 button1_text: Paper
-button2_url: https://github.com/janickimaciej/beyond-segmentation
+button2_url: https://github.com/Musialski-Research-Group/beyond-segmentation
 button2_text: Github
 ---
 
